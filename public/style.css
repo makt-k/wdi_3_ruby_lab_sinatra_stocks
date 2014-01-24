@@ -1,0 +1,15 @@
+h1 {
+  color:green;
+  font-family: serif;
+}
+
+div {
+  position: fixed;
+  text-align: center;
+  padding-left: 25%;
+  margins: auto;
+}
+
+body {
+  background-color: #ADD8E6;
+}
